@@ -35,11 +35,10 @@ Ao final, o algoritmo produz uma configuração otimizada contendo a posição d
 # 2. Objetivos
 
 <p align="justify">
-
 O objetivo principal é minimizar o custo total da linha de transmissão mantendo todas as restrições físicas e mecânicas da infraestrutura.
-
+</p>
+<p align="justify">
 A solução procura reduzir o número de torres sem comprometer a segurança da instalação, garantindo que todos os vãos permaneçam dentro dos limites especificados e que o cabo mantenha distância adequada do terreno em todo o percurso.
-
 </p>
 
 ---

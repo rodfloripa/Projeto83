@@ -115,7 +115,10 @@ Caso qualquer restrição seja violada, grandes penalidades são aplicadas à fu
 
 <p align="center">
 
-**(Inserir aqui a imagem do perfil otimizado da LT)**
+
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto83/blob/main/fig1.png">
+</p>
 
 </p>
 

@@ -1,7 +1,7 @@
 
 # Otimização da Localização de Torres de Linhas de Transmissão com Simulated Annealing
 
-<p align="center">
+<p align="justify">
 Projeto de otimização da distribuição de torres de linhas de transmissão considerando restrições mecânicas, perfil do terreno, altura mínima do cabo, custo de implantação e classificação automática das torres.
 </p>
 

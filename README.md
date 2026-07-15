@@ -2,7 +2,7 @@
 # Projeto de Linhas de Transmissão com Simulated Annealing
 
 <p align="justify">
-Projeto de otimização da distribuição de torres de linhas de transmissão considerando restrições mecânicas, perfil do terreno, altura mínima do cabo, custo de implantação e classificação automática das torres.
+Projeto de otimização da locação de torres de linhas de transmissão considerando restrições mecânicas, perfil do terreno, altura mínima do cabo, custo de implantação e classificação automática das torres.
 </p>
 
 ---

@@ -25,9 +25,8 @@ Durante a otimização são considerados:
 - classificação automática entre torres de suspensão e ancoragem;
 - penalizações para soluções inviáveis;
 - custo de implantação.
-
+<p align="justify">
 Ao final, o algoritmo produz uma configuração otimizada contendo a posição das torres, altura de fixação dos cabos, tipo de cada estrutura e custo estimado da solução.
-
 </p>
 
 
@@ -172,9 +171,9 @@ Após o processo de otimização o algoritmo fornece automaticamente:
 - custo total estimado;
 - gráfico da configuração final;
 - curva de convergência do Simulated Annealing.
-
+</p>
+<p align="justify">
 Esses resultados permitem avaliar diferentes configurações de projeto e identificar soluções economicamente mais eficientes sem violar as restrições de engenharia.
-
 </p>
 
 

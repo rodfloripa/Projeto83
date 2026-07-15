@@ -30,7 +30,7 @@ Ao final, o algoritmo produz uma configuração otimizada contendo a posição d
 
 </p>
 
----
+
 
 # 2. Objetivos
 
@@ -41,7 +41,7 @@ O objetivo principal é minimizar o custo total da linha de transmissão mantend
 A solução procura reduzir o número de torres sem comprometer a segurança da instalação, garantindo que todos os vãos permaneçam dentro dos limites especificados e que o cabo mantenha distância adequada do terreno em todo o percurso.
 </p>
 
----
+
 
 # 3. Características do Projeto
 
@@ -62,7 +62,7 @@ O projeto contempla:
 
 </p>
 
----
+-
 
 # 4. Modelagem do Problema
 
@@ -87,7 +87,7 @@ A função objetivo combina:
 O processo iterativo do Simulated Annealing explora diferentes configurações até encontrar uma solução de menor custo.
 </p>
 
----
+
 
 # 5. Restrições Consideradas
 
@@ -107,7 +107,7 @@ O algoritmo verifica automaticamente:
 Caso qualquer restrição seja violada, grandes penalidades são aplicadas à função objetivo.
 </p>
 
----
+
 
 # 6. Perfil Otimizado da Linha de Transmissão
 
@@ -122,7 +122,7 @@ Caso qualquer restrição seja violada, grandes penalidades são aplicadas à fu
 
 <br><br><br><br><br><br><br><br>
 
----
+
 
 # 7. Fluxo do Algoritmo
 
@@ -140,7 +140,7 @@ O processo de otimização segue as seguintes etapas:
 
 </p>
 
----
+
 
 # 8. Tecnologias Utilizadas
 
@@ -156,7 +156,7 @@ O projeto foi desenvolvido utilizando:
 
 </p>
 
----
+
 
 # 9. Resultados
 
@@ -177,7 +177,7 @@ Esses resultados permitem avaliar diferentes configurações de projeto e identi
 
 </p>
 
----
+
 
 # 10. Aplicações
 
@@ -185,7 +185,7 @@ Esses resultados permitem avaliar diferentes configurações de projeto e identi
 O método pode ser aplicado em estudos preliminares de implantação de linhas de transmissão, análise de alternativas de traçado, planejamento de infraestrutura elétrica, comparação de projetos, apoio à engenharia de transmissão e desenvolvimento de ferramentas computacionais para otimização de ativos energéticos.
 </p>
 
----
+
 
 # 11. Conclusão
 
@@ -195,4 +195,4 @@ A utilização do Simulated Annealing mostrou-se adequada para resolver um probl
 <p align="justify">
 Ao integrar informações do terreno, limitações mecânicas, classificação estrutural das torres e custos de implantação, o modelo produz soluções consistentes que equilibram desempenho técnico e viabilidade econômica. Essa abordagem pode ser expandida para cenários reais incorporando modelos digitais de terreno, diferentes tipos de cabos, condições climáticas, restrições ambientais e múltiplos critérios de projeto, tornando-se uma ferramenta de apoio para estudos avançados de planejamento de linhas de transmissão.
 </p>
-````
+

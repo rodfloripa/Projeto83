@@ -10,7 +10,6 @@ Projeto de otimização da distribuição de torres de linhas de transmissão co
 # 1. Visão Geral
 
 <p align="justify">
-
 Este projeto implementa um algoritmo de otimização baseado em <b>Simulated Annealing (SA)</b> para definir automaticamente a melhor localização das torres de uma Linha de Transmissão (LT).
 </p>
 <p align="justify">

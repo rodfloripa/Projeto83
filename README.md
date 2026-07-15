@@ -102,9 +102,9 @@ O algoritmo verifica automaticamente:
 - altura mínima de fixação;
 - altura máxima de fixação;
 - classificação correta das torres quando ocorre mudança significativa de direção.
-
+</p>
+<p align="justify">
 Caso qualquer restrição seja violada, grandes penalidades são aplicadas à função objetivo.
-
 </p>
 
 ---

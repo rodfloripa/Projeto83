@@ -141,19 +141,7 @@ O processo de otimização segue as seguintes etapas:
 
 ---
 
-# 8. Estrutura do Projeto
-
-```text
-Projeto_LT/
-│
-├── untitled35.py
-├── README.md
-└── perfil_otimizado_LT.png
-```
-
----
-
-# 9. Tecnologias Utilizadas
+# 8. Tecnologias Utilizadas
 
 <p align="justify">
 
@@ -169,7 +157,7 @@ O projeto foi desenvolvido utilizando:
 
 ---
 
-# 10. Resultados
+# 9. Resultados
 
 <p align="justify">
 
@@ -190,7 +178,7 @@ Esses resultados permitem avaliar diferentes configurações de projeto e identi
 
 ---
 
-# 11. Aplicações
+# 10. Aplicações
 
 <p align="justify">
 
@@ -200,7 +188,7 @@ O método pode ser aplicado em estudos preliminares de implantação de linhas d
 
 ---
 
-# 12. Conclusão
+# 11. Conclusão
 
 <p align="justify">
 

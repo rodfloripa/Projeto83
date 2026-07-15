@@ -183,9 +183,7 @@ Esses resultados permitem avaliar diferentes configurações de projeto e identi
 # 10. Aplicações
 
 <p align="justify">
-
 O método pode ser aplicado em estudos preliminares de implantação de linhas de transmissão, análise de alternativas de traçado, planejamento de infraestrutura elétrica, comparação de projetos, apoio à engenharia de transmissão e desenvolvimento de ferramentas computacionais para otimização de ativos energéticos.
-
 </p>
 
 ---
@@ -193,10 +191,9 @@ O método pode ser aplicado em estudos preliminares de implantação de linhas d
 # 11. Conclusão
 
 <p align="justify">
-
 A utilização do Simulated Annealing mostrou-se adequada para resolver um problema de otimização altamente restritivo e não linear, permitindo explorar inúmeras configurações possíveis de posicionamento das torres sem necessidade de métodos determinísticos complexos.
-
+  </p>
+<p align="justify">
 Ao integrar informações do terreno, limitações mecânicas, classificação estrutural das torres e custos de implantação, o modelo produz soluções consistentes que equilibram desempenho técnico e viabilidade econômica. Essa abordagem pode ser expandida para cenários reais incorporando modelos digitais de terreno, diferentes tipos de cabos, condições climáticas, restrições ambientais e múltiplos critérios de projeto, tornando-se uma ferramenta de apoio para estudos avançados de planejamento de linhas de transmissão.
-
 </p>
 ````

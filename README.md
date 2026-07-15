@@ -67,8 +67,8 @@ O projeto contempla:
 # 4. Modelagem do Problema
 
 <p align="justify">
-
 Cada solução candidata representa um conjunto de torres distribuídas ao longo da linha de transmissão.
+</p>
 
 Cada torre possui:
 
@@ -83,9 +83,8 @@ A função objetivo combina:
 - penalizações por violações das restrições;
 - penalizações para excesso de torres;
 - penalizações para alturas excessivas.
-
+<p align="justify">
 O processo iterativo do Simulated Annealing explora diferentes configurações até encontrar uma solução de menor custo.
-
 </p>
 
 ---

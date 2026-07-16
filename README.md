@@ -114,7 +114,7 @@ Caso qualquer restrição seja violada, grandes penalidades são aplicadas à fu
 
 
 <p align="center">
-  <img src="https://github.com/rodfloripa/Projeto83/blob/main/fig1.png">
+  <img src="https://github.com/rodfloripa/Projeto83/blob/main/fig1a.png">
 </p>
 
 </p>

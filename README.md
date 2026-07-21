@@ -18,7 +18,7 @@ O modelo busca minimizar o custo total da implantação respeitando simultaneame
 Durante a otimização são considerados:
 
 - comprimento total da LT;
-- distância mínima e máxima entre torres;
+- vão mínima e máximo;
 - perfil do terreno;
 - altura de fixação dos cabos;
 - distância mínima cabo-solo;
